@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Assignment1">
+		<Project filename="0-Warmup/Warmup.cbp" />
+		<Project filename="1-ConsecutiveHeads/ConsecutiveHeads.cbp" />
+		<Project filename="2-Obenglobish/Obenglobish.cbp" />
+		<Project filename="3-Combinations/Combinations.cbp" />
+		<Project filename="4-NumericConversion/NumericConversion.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
